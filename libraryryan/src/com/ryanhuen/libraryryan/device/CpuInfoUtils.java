@@ -8,7 +8,7 @@ import java.io.FilenameFilter;
 import java.io.IOException;
 import java.util.regex.Pattern;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.text.TextUtils;
 import android.util.Log;

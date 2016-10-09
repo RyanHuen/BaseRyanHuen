@@ -1,5 +1,5 @@
 
-package com.ryanhuen.libraryryan;
+package com.ryanhuen.libraryryan.config;
 
 /**
  * Created by ryanhuenwork on 16-10-9.

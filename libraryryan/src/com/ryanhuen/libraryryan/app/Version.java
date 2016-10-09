@@ -1,7 +1,7 @@
 
 package com.ryanhuen.libraryryan.app;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;

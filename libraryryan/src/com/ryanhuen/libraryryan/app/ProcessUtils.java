@@ -3,7 +3,7 @@ package com.ryanhuen.libraryryan.app;
 
 import java.io.FileInputStream;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.util.Log;
 

@@ -4,7 +4,7 @@ package com.ryanhuen.libraryryan.basic;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.util.Log;
 

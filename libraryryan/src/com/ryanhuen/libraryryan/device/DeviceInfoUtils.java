@@ -9,7 +9,7 @@ import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.util.Enumeration;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.content.Context;
 import android.net.wifi.WifiInfo;

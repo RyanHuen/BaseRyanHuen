@@ -3,7 +3,7 @@ package com.ryanhuen.libraryryan.device;
 
 import java.lang.reflect.Method;
 
-import com.ryanhuen.libraryryan.Config;
+import com.ryanhuen.libraryryan.config.Config;
 
 import android.util.Log;
 

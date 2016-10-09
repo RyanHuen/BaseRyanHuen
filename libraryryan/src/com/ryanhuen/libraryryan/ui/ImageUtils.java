@@ -53,7 +53,7 @@ public class ImageUtils {
             try {
                 bm = BitmapFactory.decodeResource(res, id, options);
             } catch (OutOfMemoryError e) {
-                if (com.ryanhuen.libraryryan.Config.BASE_DEBUG) {
+                if (com.ryanhuen.libraryryan.config.Config.BASE_DEBUG) {
                     Log.d("decodeResource", "decode resource failed: out of memory");
                 }
             }
