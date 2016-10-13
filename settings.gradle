@@ -1,1 +1,1 @@
-include ':app', ':libraryryan'
+include ':app', ':libraryryan', ':permission_m'

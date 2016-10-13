@@ -15,6 +15,7 @@ android {
 //		jnilibs.srcDirs=['libs','libs-sdk']
         }
     }
+
     defaultConfig {
         minSdkVersion rootProject.minSdkVersion
         targetSdkVersion rootProject.targetSdkVersion
