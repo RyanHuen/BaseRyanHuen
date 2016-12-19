@@ -4,7 +4,9 @@ package com.ryanhuen.permission_m;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Created by ryanhuenwork on 16-10-13.
@@ -13,9 +15,9 @@ public class PermissionConfig {
     /**
      * configure your permission here
      */
-    private static final List<String> PERMISSION_LIST = new ArrayList<String>();
+    private static final Set<String> PERMISSION_LIST = new HashSet<>();
 
-    public static List<String> getPermissionList() {
+    public static Set<String> getPermissionList() {
         return PERMISSION_LIST;
     }
 
@@ -38,5 +40,6 @@ public class PermissionConfig {
     public static void clearAllPermission() {
         PERMISSION_LIST.clear();
     }
+
 
 }

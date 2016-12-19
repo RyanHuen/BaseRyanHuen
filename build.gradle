@@ -24,6 +24,6 @@ task clean(type: Delete) {
 ext {
     compileSdkVersion = System.getProperty("android.compileSdkVersion") ?: 23
     buildToolsVersion = System.getProperty("android.buildToolsVersion") ?: "23.0.3"
-    minSdkVersion = 15
+    minSdkVersion = 16
     targetSdkVersion = 23
 }
